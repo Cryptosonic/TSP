@@ -1,0 +1,10 @@
+C:\C++\Projects\The Traveling salesman problem\The Traveling salesman problem\bin\Debug\The Traveling salesman problem.exe.config
+C:\C++\Projects\The Traveling salesman problem\The Traveling salesman problem\bin\Debug\The Traveling salesman problem.exe
+C:\C++\Projects\The Traveling salesman problem\The Traveling salesman problem\bin\Debug\The Traveling salesman problem.pdb
+C:\C++\Projects\The Traveling salesman problem\The Traveling salesman problem\obj\Debug\The Traveling salesman problem.csproj.AssemblyReference.cache
+C:\C++\Projects\The Traveling salesman problem\The Traveling salesman problem\obj\Debug\The_Traveling_salesman_problem.Properties.Resources.resources
+C:\C++\Projects\The Traveling salesman problem\The Traveling salesman problem\obj\Debug\The Traveling salesman problem.csproj.GenerateResource.cache
+C:\C++\Projects\The Traveling salesman problem\The Traveling salesman problem\obj\Debug\The Traveling salesman problem.csproj.CoreCompileInputs.cache
+C:\C++\Projects\The Traveling salesman problem\The Traveling salesman problem\obj\Debug\The Traveling salesman problem.exe
+C:\C++\Projects\The Traveling salesman problem\The Traveling salesman problem\obj\Debug\The Traveling salesman problem.pdb
+C:\C++\Projects\The Traveling salesman problem\The Traveling salesman problem\obj\Debug\The_Traveling_salesman_problem.Form1.resources
